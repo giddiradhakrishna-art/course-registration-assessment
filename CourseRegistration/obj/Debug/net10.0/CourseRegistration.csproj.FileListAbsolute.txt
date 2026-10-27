@@ -1,0 +1,11 @@
+C:\CourseRegistrationAssessment\CourseRegistration\bin\Debug\net10.0\CourseRegistration.deps.json
+C:\CourseRegistrationAssessment\CourseRegistration\bin\Debug\net10.0\CourseRegistration.dll
+C:\CourseRegistrationAssessment\CourseRegistration\bin\Debug\net10.0\CourseRegistration.pdb
+C:\CourseRegistrationAssessment\CourseRegistration\obj\Debug\net10.0\CourseRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\CourseRegistrationAssessment\CourseRegistration\obj\Debug\net10.0\CourseRegistration.AssemblyInfoInputs.cache
+C:\CourseRegistrationAssessment\CourseRegistration\obj\Debug\net10.0\CourseRegistration.AssemblyInfo.cs
+C:\CourseRegistrationAssessment\CourseRegistration\obj\Debug\net10.0\CourseRegistration.csproj.CoreCompileInputs.cache
+C:\CourseRegistrationAssessment\CourseRegistration\obj\Debug\net10.0\CourseRegistration.dll
+C:\CourseRegistrationAssessment\CourseRegistration\obj\Debug\net10.0\refint\CourseRegistration.dll
+C:\CourseRegistrationAssessment\CourseRegistration\obj\Debug\net10.0\CourseRegistration.pdb
+C:\CourseRegistrationAssessment\CourseRegistration\obj\Debug\net10.0\ref\CourseRegistration.dll
